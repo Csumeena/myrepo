@@ -7,6 +7,10 @@ Checkout command can be useful for 2 things
 
 1. geting into the branch
 2. modifying the chnages made using commit id , or get back to the previous modification using checkout.
+<<<<<<< HEAD
 
 3. ######
 
+=======
+3. comminting the file
+>>>>>>> f9908fc907f90dd4741385054c4cc0f711fcdcf8
