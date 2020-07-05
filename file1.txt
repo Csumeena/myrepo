@@ -1,9 +1,12 @@
-Hello World
+<!DOCTYPE html>
+<html>
+<body>
 
-This is the test file for the GIT training 
-<HTML>
-<DOC>
-<TEXT><H1> This the Test for the first fetch </H1>
-</HTML>
+<h1>GITHUB LAB</h1>
 
+<p>Testing Github</p>
+<p>This is to test the automatic building of Jenkins</p>
+
+</body>
+</html>
 
